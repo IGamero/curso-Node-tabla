@@ -1,0 +1,16 @@
+{
+  "name": "04-bases-de-node",
+  "version": "0.0.2",
+  "description": "Tablas de multiplicar simples con archivos de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app --base=3"
+  },
+  "author": "Ivan Gamero",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.3.0"
+  }
+}
